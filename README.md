@@ -1,4 +1,4 @@
-Matlab code for simulating safety-critical longitudinal control for a connected automated truck governed by dynamics with input delay and input disturbance.
+Matlab codes for simulating safety-critical longitudinal control for a connected automated truck governed by dynamics with input delay and input disturbance.
 The controller is based on predictor feedback and tunable input-to-state safe control barrier functions.
 
 Main simulation file: truck.m, ODE solver: odeab4.m.
